@@ -1,0 +1,32 @@
+.row .gray-scale{
+    filter: grayscale(100%);
+}
+.header-bg{
+    background: #264653;
+}
+.button-bg{
+    background: #E76F51;
+    border-radius: 5px;
+}
+.main-section{
+    background: #ffffff;
+}
+.text-color{
+    color: #E76F51;
+}
+.icon-gap-filled{
+    color:#E77C40;
+}
+.icon-gap-empty{
+    background:white;
+    color:  #E77C40;
+}
+.profession-color{
+    color: #252B42;
+}
+.bonus-part-bg{
+    background-color: floralwhite;
+}
+.subscribe{
+    background-color: cornsilk;
+}
